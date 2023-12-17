@@ -18,7 +18,7 @@ function loadMainPrompts() {
     {
       type: "list",
       name: "choice",
-      message: "Please What would you like to do?",
+      message: "Please tell me What would you like to do?",
       choices: [
         {
           name: "I Want Please to View All Employees",
